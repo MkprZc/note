@@ -1,5 +1,7 @@
 ### Golang 基础
 
+参考自：[菜鸟教程](https://www.runoob.com/go/go-tutorial.html)
+
 #### Go 环境安装
 
 1. 安装包，Golang官网下载地址： [https://golang.org/dl/](https://golang.org/dl/)
